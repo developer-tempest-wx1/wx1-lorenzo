@@ -21,7 +21,7 @@ from zarr.core.buffer import NDBuffer
 from zarr.core.common import JSON, parse_named_configuration
 from zarr.registry import register_codec
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 CODEC_NAME = "wx1.lorenzo2d"
 _SIGNED = {np.dtype("uint16"): np.int16, np.dtype("uint8"): np.int8}
 

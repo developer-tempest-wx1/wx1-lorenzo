@@ -1,6 +1,6 @@
 [project]
 name = "wx1-lorenzo"
-version = "0.1.0"
+version = "0.1.1"
 description = "Lossless 2-D Lorenzo predictor as a Zarr v3 ArrayArrayCodec for GRIB-quantised weather grids"
 readme = "README.md"
 requires-python = ">=3.11"
